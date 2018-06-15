@@ -1,9 +1,7 @@
 # Table of contents
 
 * [Overview](#overview)
-
-* [](#protocol)
-    * [](#app-side)
+* [Usage](#usage)
 
 <a name="overview"/>
 
@@ -16,7 +14,12 @@ debug-ui
 * can be run by Firefox at localhost
 * is hosted by GitHub pages [here][hosted-debug-ui]
 
+<a name="usage"/>
+
 # Usage
 
+Simply open this UI hosted by GitHub pages [here][hosted-debug-ui].
+
 [debug-broker]: https://github.com/OGStudio/debug-broker
-[hosted-debug-ui]: 
+[hosted-debug-ui]: https://ogstudio.github.io/debug-ui
+
