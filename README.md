@@ -33,12 +33,12 @@ ERROR: broker parameter is missing
 NOTE: Add 'broker=http://localhost:7999' parameter, where http://localhost:7999 should have DebugBroker instance running
 ```
 
-You need provide broker URL:
+You need to provide broker URL:
 
 * append `?broker=<url to debug-broker instance>` to your web browser's address bar
 * press `Enter` to apply the changes
 
-**Note**:
+**Notes**:
 
 * consult [debug-broker documentation][debug-broker] to find out how (and where) to install the broker
 * `<url to debug-broker instance>` should be a fully qualified URL, even with `http(s)://` part
@@ -59,9 +59,7 @@ You need to provide debugger name:
 * append `&debugger=<app title>` to your web browser's address bar
 * press `Enter` to apply the changes
 
-**Note**:
-
-* consult [debug-broker documentation][debug-broker] to find out what debugger name is
+**Note**: consult [debug-broker documentation][debug-broker] to find out what debugger name is
 
 [debug-broker]: https://github.com/OGStudio/debug-broker
 [hosted-debug-ui]: https://ogstudio.github.io/debug-ui
